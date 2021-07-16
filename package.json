@@ -37,6 +37,7 @@
     "react-native": "^0.61.5"
   },
   "dependencies": {
-    "d3-shape": "^2.1.0"
+    "d3-shape": "^2.1.0",
+    "react-native-androw": "0.0.34"
   }
 }
